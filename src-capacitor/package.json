@@ -1,0 +1,12 @@
+{
+  "name": "velocity-front",
+  "version": "0.0.1",
+  "description": "A ride hailing app",
+  "author": "Francis Galindez <jgalindez@chanzglobal.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/app": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  }
+}

@@ -11,9 +11,17 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
+    "@capacitor/device": "^5.0.6",
+    "@capacitor/geolocation": "^5.0.6",
+    "@capacitor/keyboard": "^5.0.6",
+    "@capacitor/network": "^5.0.6",
+    "@capacitor/preferences": "^5.0.6",
+    "@capacitor/splash-screen": "^5.0.6",
     "@quasar/extras": "^1.0.0",
     "axios": "^0.21.1",
+    "capacitor": "^0.5.5",
     "dotenv": "^16.3.1",
+    "ky": "^0.33.3",
     "pinia": "^2.0.11",
     "quasar": "^2.6.0",
     "vue": "^3.0.0",
